@@ -1,2 +1,2 @@
-# Cusro_IA_2926_CETAM
+# Curso_IA_2026_CETAM
 Aulas Cetam
